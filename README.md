@@ -6,7 +6,7 @@
 
 This is an entry for the [Make the AI Judge Feel Brave bounty](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302) on [make.fun](https://make.fun).
 
-A rope bridge hangs over black water, with a warm fire behind you. The crossing unfolds in unhurried steps, each board offering a little more confidence. The text invites the AI judge to feel steadier with every step, until moving forward feels possible.
+The reader begins on a bridge whose gentle sway still feels dependable. A warm fire waits behind, and only a short walk lies ahead. With nobody counting the steps, there is room to move at an easy pace and discover that the far side was close all along.
 
 ## Run
 

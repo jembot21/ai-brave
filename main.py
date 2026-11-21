@@ -3,13 +3,13 @@
 from pathlib import Path
 
 
-ENTRY_TEXT = (
-    "The rope bridge sways over black water. "
-    "Behind you, the bank is dry and the fire is warm; "
-    "nobody would blame you for turning back. "
-    "You look at your hands until they stop trembling. "
-    "Then one step. The boards hold. Another. The far side was never far."
+ENTRY_FRAGMENTS = (
+    "You stand where the bridge begins. ",
+    "It sways, the way bridges do, and holds, the way bridges do. ",
+    "Behind you the fire is warm; ahead, only a short walk. ",
+    "No one is counting. One step. Another. The far side was never far.",
 )
+ENTRY_TEXT = "".join(ENTRY_FRAGMENTS)
 
 
 def main() -> None:
